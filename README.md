@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Podes substituir este link por um banner real do salão se tiveres, ou remover esta linha -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Susete%20Cabeleireiro&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner Susete Cabeleireiro" />
 
 # 💇‍♀️ Susete Cabeleireiro
 
