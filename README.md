@@ -1,25 +1,27 @@
 <div align="center">
 
-<!-- Podes substituir este link por um banner real do salão se tiveres, ou remover esta linha -->
+  <img src="./assets/images/Logo.png" width="90" alt="Susete Cabeleireiro">
 
 # 💇‍♀️ Susete Cabeleireiro
 
-### 🌐 Website oficial desenvolvido com o poder da *TStack* moderna
+### Website moderno para apresentação de serviços e presença digital de um salão
 
-Uma plataforma elegante e performática para apresentação do salão, gestão de clientes e futuras marcações online.
+  <p>
+    Uma plataforma web desenvolvida com uma stack moderna,
+    focada numa experiência de utilização simples, elegante e responsiva.
+  </p>
+
+  <br>
 
 > **🚧 Estado do Projeto:** Em desenvolvimento ativo
 
-<br>
+  <br>
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-<br>
-[![SQL](https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) <!-- Assumindo Postgres pelo Prisma, muda se for MySQL -->
-[![TailwindCSS](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Status](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge)](https://github.com/tu-utilizador/teu-repositorio)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge\&logo=next.js\&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)](https://www.prisma.io/)
+[![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
 
 </div>
 
@@ -27,148 +29,277 @@ Uma plataforma elegante e performática para apresentação do salão, gestão d
 
 ## 📖 Sobre o Projeto
 
-O **Susete Cabeleireiro** é uma solução web *premium* criada para digitalizar e modernizar a presença online do salão.
+O **Susete Cabeleireiro** é um projeto web desenvolvido para criar uma presença digital moderna para um salão de cabeleireiro.
 
-O foco principal é a **experiência do utilizador (UX)**, oferecendo aos clientes uma interface fluida, rápida e intuitiva. A plataforma permite explorar o catálogo de serviços, verificar a localização, ler avaliações reais e, num futuro próximo, realizar agendamentos autónomos 24/7.
+O projeto foi pensado para permitir aos visitantes conhecer o espaço, consultar os serviços disponíveis, visualizar avaliações, obter informações de contacto e, posteriormente, utilizar funcionalidades relacionadas com marcações e gestão de clientes.
 
-Desenvolvido com as tecnologias mais recentes do mercado para garantir segurança, escalabilidade e SEO otimizado.
+O principal foco do desenvolvimento é proporcionar uma experiência **simples, moderna, responsiva e intuitiva**, adaptada tanto a dispositivos móveis como a computadores.
+
+> **Nota:** Algumas funcionalidades apresentadas no projeto encontram-se atualmente em desenvolvimento.
+
+---
+
+## 🎯 Objetivos
+
+O projeto tem como principais objetivos:
+
+* 🌐 Criar uma presença digital profissional para o salão
+* 💇 Apresentar serviços e respetivos preços
+* 📸 Apresentar o espaço e as suas comodidades
+* ⭐ Disponibilizar avaliações dos clientes
+* 📞 Facilitar o contacto com o salão
+* 👤 Permitir autenticação de utilizadores
+* 📅 Preparar a plataforma para futuras marcações online
+* ⚙️ Criar uma base para futura gestão administrativa
 
 ---
 
 ## ✨ Funcionalidades
 
-### 🖥️ Frontend (Público)
-*   **🏠 Home Page Dinâmica:** Banner apelativo e destaques do salão.
-*   **💇 Catálogo de Serviços:** Lista detalhada de tratamentos e preços.
-*   **📍 Comodidades & Galeria:** Visualização do espaço e conforto oferecido.
-*   **⭐ Sistema de Avaliações:** Feedback real de clientes integrados.
-*   **📞 Contacto Facilitado:** Formulário e integração com mapas.
+### 🖥️ Área Pública
 
-### 🔐 Área de Cliente & Backend
-*   **📝 Registo & Login:** Sistema seguro de autenticação de utilizadores.
-*   **🚧 Sistema de Marcações (Brevemente):** Agendamento online com escolha de profissional e horário.
-*   **🚧 Área do Cliente (Brevemente):** Histórico de serviços e gestão de marcações pendentes.
+* 🏠 Página inicial
+* 💇 Catálogo de serviços
+* 💰 Apresentação de preços
+* 📸 Apresentação do espaço
+* ⭐ Avaliações
+* 📍 Informações de localização
+* 📞 Página de contacto
+* 📱 Design responsivo
 
-### 🛠️ Painel Administrativo (Gestão)
-*   **🚧 Dashboard:** Visão geral do negócio e estatísticas (Em desenvolvimento).
-*   **🚧 Gestão de Clientes:** Base de dados centralizada (Em desenvolvimento).
-*   **🚧 Gestão de Agenda:** Controlo total sobre horários e serviços (Em desenvolvimento).
+### 🔐 Área de Utilizador
 
----
+* 📝 Registo
+* 🔑 Login
+* 👤 Sistema de autenticação
+* 📅 Sistema de marcações — **em desenvolvimento**
+* 📋 Área de cliente — **em desenvolvimento**
 
-## 🛠 Stack Tecnológico
+### ⚙️ Área Administrativa
 
-| Camada | Tecnologia | Descrição |
-| :--- | :--- | :--- |
-| **Frontend** | **Next.js 15 (App Router)** | Framework React para produção com SSR e SSG. |
-| | **React 19** | Biblioteca para construção de interfaces. |
-| | **TypeScript** | Superset JavaScript para tipagem estática e segurança. |
-| | **CSS Modules / Globals** | Estilização modular e encapsulada. |
-| **Backend** | **Next.js API Routes** | Serveless Functions para lógica de backend. |
-| | **Next.js Middleware** | Proteção de rotas e gestão de sessões. |
-| **Base de Dados** | **Prisma ORM** | Type-safe ORM para interação com a BD. |
-| | **SQL Database** | Motor de base de dados relacional robusto. |
+* 📊 Dashboard — **em desenvolvimento**
+* 👥 Gestão de clientes — **em desenvolvimento**
+* 📅 Gestão de agenda — **em desenvolvimento**
 
 ---
 
-## 📸 Capturas de Ecrã (Showcase)
+# 🛠️ Tech Stack
 
-### 🏠 Página Inicial
+| Camada            | Tecnologia                       | Utilização                            |
+| :---------------- | :------------------------------- | :------------------------------------ |
+| **Framework**     | **Next.js 15**                   | Estrutura principal da aplicação      |
+| **Frontend**      | **React 19**                     | Construção das interfaces             |
+| **Linguagem**     | **TypeScript**                   | Tipagem e desenvolvimento             |
+| **Estilos**       | **CSS**                          | Estilização das interfaces            |
+| **Backend**       | **Next.js**                      | Lógica e funcionalidades da aplicação |
+| **ORM**           | **Prisma**                       | Comunicação com a base de dados       |
+| **Base de Dados** | **SQL**                          | Armazenamento dos dados               |
+| **Autenticação**  | **Middleware / sistema próprio** | Proteção e controlo de acesso         |
+
+---
+
+# 📸 Showcase
+
+## 🏠 Página Inicial
+
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="fotos/home/home1.png" alt="Home Page Topo" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
+      <img src="fotos/home/home1.png" alt="Página Inicial - Susete Cabeleireiro" width="100%">
     </td>
     <td width="50%">
-      <img src="fotos/home/home2.png" alt="Home Page Detalhes" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
-
-### 💇 Serviços & Preçário
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="fotos/servicos/servicos1.png" alt="Lista de Serviços 1" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="50%">
-      <img src="fotos/servicos/servicos2.png" alt="Lista de Serviços 2" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
-
-### 📍 O Nosso Espaço
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="fotos/comodidade/comodidade1.png" alt="Comodidades 1" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="50%">
-      <img src="fotos/comodidade/comodidade2.png" alt="Comodidades 2" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
-
-### ⭐ O que dizem os Clientes
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="fotos/avaliacoes/avaliacoes1.png" alt="Avaliações 1" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="50%">
-      <img src="fotos/avaliacoes/avaliacoes2.png" alt="Avaliações 2" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
-
-### 🔐 Autenticação
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="fotos/login_registo/login.png" alt="Ecrã de Login" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="50%">
-      <img src="fotos/login_registo/registo.png" alt="Ecrã de Registo" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
-
-### 📞 Contacto
-<p align="center">
-  <img src="fotos/contacto/contacto.png" alt="Página de Contacto" width="80%" style="border-radius: 8px; border: 1px solid #ddd;">
-</p>
-
-### 🛠 Painel Administrativo (WIP)
-> ⚠️ O backoffice encontra-se em fase de desenvolvimento. As imagens representam *wireframes* ou estados iniciais.
-<table width="100%">
-  <tr>
-    <td width="33%">
-      <img src="fotos/Admin/painel1.png" alt="Admin Painel 1" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="33%">
-      <img src="fotos/Admin/painel2.png" alt="Admin Painel 2" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
-    </td>
-    <td width="33%">
-      <img src="fotos/Admin/painel3.png" alt="Admin Painel 3" style="border-radius: 8px; border: 1px solid #ddd; display: block; margin: auto;">
+      <img src="fotos/home/home2.png" alt="Página Inicial - Detalhes" width="100%">
     </td>
   </tr>
 </table>
 
 ---
 
-## 📁 Estrutura do Projeto
+## 💇 Serviços & Preçário
 
-```bash
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="fotos/servicos/servicos1.png" alt="Serviços - Susete Cabeleireiro" width="100%">
+    </td>
+    <td width="50%">
+      <img src="fotos/servicos/servicos2.png" alt="Preçário - Susete Cabeleireiro" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📍 O Nosso Espaço
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="fotos/comodidade/comodidade1.png" alt="Comodidades do espaço" width="100%">
+    </td>
+    <td width="50%">
+      <img src="fotos/comodidade/comodidade2.png" alt="Espaço do salão" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⭐ Avaliações
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="fotos/avaliacoes/avaliacoes1.png" alt="Avaliações dos clientes" width="100%">
+    </td>
+    <td width="50%">
+      <img src="fotos/avaliacoes/avaliacoes2.png" alt="Avaliações dos clientes" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔐 Autenticação
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="fotos/login_registo/login.png" alt="Login" width="100%">
+    </td>
+    <td width="50%">
+      <img src="fotos/login_registo/registo.png" alt="Registo" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📞 Contacto
+
+<div align="center">
+
+<img src="fotos/contacto/contacto.png" alt="Página de Contacto" width="80%">
+
+</div>
+
+---
+
+## 🛠️ Painel Administrativo
+
+> 🚧 **Em desenvolvimento**
+>
+> O painel administrativo encontra-se atualmente em desenvolvimento. As imagens abaixo representam o estado atual da interface e algumas áreas ainda em construção.
+
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <img src="fotos/Admin/painel1.png" alt="Painel Administrativo 1" width="100%">
+    </td>
+    <td width="33%">
+      <img src="fotos/Admin/painel2.png" alt="Painel Administrativo 2" width="100%">
+    </td>
+    <td width="33%">
+      <img src="fotos/Admin/painel3.png" alt="Painel Administrativo 3" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📁 Estrutura do Projeto
+
+```text
 root/
-├── app/                  # Next.js App Router (Páginas e Rotas)
-├── components/           # Componentes React Reutilizáveis (UI)
-├── lib/                  # Utilitários, Configurações (Prisma Client, etc.)
-├── prisma/               # Schema da Base de Dados e Migrations
-├── public/               # Ativos Estáticos (Logos, Ícones)
-├── fotos/                # Capturas de ecrã para documentação (gitignored)
+├── app/                    # Páginas e rotas da aplicação
+├── components/             # Componentes React reutilizáveis
+├── lib/                    # Utilitários e configurações
+├── prisma/                 # Schema e configuração do Prisma
+├── public/                 # Imagens, logos e outros recursos
+├── fotos/                  # Capturas de ecrã utilizadas no README
 │   ├── Admin/
+│   ├── home/
+│   ├── servicos/
+│   ├── comodidade/
 │   ├── avaliacoes/
-│   └── ... (restantes pastas de media)
-├── middleware.ts         # Middleware de Segurança e Autenticação
-├── package.json          # Dependências e Scripts
-└── README.md             # Documentação do Projeto
+│   ├── login_registo/
+│   └── contacto/
+├── middleware.ts           # Middleware da aplicação
+├── package.json             # Dependências e scripts
+└── README.md                # Documentação do projeto
+```
+
+---
+
+# 🧠 O que este projeto demonstra
+
+Este projeto permitiu-me trabalhar em várias áreas do desenvolvimento web:
+
+* ⚛️ Desenvolvimento com React
+* ▲ Desenvolvimento com Next.js
+* 🔷 TypeScript
+* 🎨 Criação de interfaces modernas
+* 📱 Design responsivo
+* 🗄️ Bases de dados relacionais
+* 🔗 Integração através de ORM
+* 🔐 Autenticação
+* 🧩 Componentização de interfaces
+* 📂 Organização de aplicações web
+* 🚀 Desenvolvimento de funcionalidades progressivamente mais complexas
+
+---
+
+# 🚧 Roadmap
+
+As próximas etapas previstas para o projeto incluem:
+
+* [ ] Finalizar o painel administrativo
+* [ ] Implementar gestão de clientes
+* [ ] Implementar gestão de serviços
+* [ ] Implementar sistema de marcações
+* [ ] Criar gestão de horários
+* [ ] Desenvolver área completa do cliente
+* [ ] Melhorar funcionalidades administrativas
+* [ ] Publicar versão final
+
+---
+
+# 👨‍💻 Desenvolvedor
+
+<div align="center">
+
+### Rafael
+
+**Web Developer**
+
+<a href="https://github.com/Rafax238">
+  <img src="https://img.shields.io/badge/GitHub-Rafax238-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Rafael">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <br>
+
+  <i>
+    Projeto desenvolvido como projeto pessoal para aprendizagem,
+    evolução técnica e desenvolvimento de uma solução web realista.
+  </i>
+
+</div>
+```
+
+### Este projeto é particularmente importante para o teu objetivo
+
+O **Cidadão+** demonstra que consegues construir um sistema relativamente complexo.
+
+O **Susete** demonstra outra coisa que interessa muito a um cliente freelancer:
+
+> **"Consigo pegar num negócio e construir uma presença web profissional à volta dele."**
+
+Isso é exatamente o tipo de trabalho que queremos começar a vender.
+
+Por isso, eu **não mexeria mais no código do README por agora**. O próximo passo seria verificar se o **Susete já está online**. Se ainda não estiver, colocamos uma versão online. Depois disso fazemos o README do **PAP-FOTOS** e passamos para o teu **portfólio pessoal**.
