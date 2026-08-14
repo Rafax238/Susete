@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/images/Logo.png" width="90" alt="Susete Cabeleireiro">
+  <img src="fotos/home1.png" width="90" alt="Susete Cabeleireiro">
 
 # 💇‍♀️ Susete Cabeleireiro
 
